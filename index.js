@@ -1,4 +1,139 @@
 
+// //  oops object oriented progaming 
+// let stu111={
+//   name:"hello",
+//   age:283,
+//   stu:()=>{
+//     console.log("heel");
+//   }
+// };
+// let stu222={
+//   name:"petter",
+//   age:83,
+//   stu1:()=>{
+//     console.log("lalu yadav");
+//   }
+// };
+
+
+// function ss(name,age){
+
+//   let dd={
+//     name:name,
+//     age:age,
+//     fun:()=>{console.log("male")}
+//   }
+// return dd
+// }
+
+// let pp=ss("nnn",3);
+// let ppp=ss("hh",893);
+
+
+// function kkk(name,age){
+//   this.name=name;
+//  this.age=age;
+// console.log(this.name);
+// }
+
+// kkk.prototype.heel=()=>{console.log("mmmmmmmm")};
+
+// let ppp=new kkk("raja",44);
+// let pppp=new kkk("salman",83);
+
+
+// extends and super keyword?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // oops object orianeted programing;
